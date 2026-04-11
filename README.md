@@ -74,6 +74,7 @@
 - **[Minerstat](https://minerstat.com/)** - A professional mining monitoring and management platform for Windows and Linux miners.
 - **[Awesome Miner](https://www.awesomeminer.com/)** - A powerful mining management software for monitoring and optimizing mining rigs.
 - **[Rigel](https://rigel.dev/)** - A tool for optimizing mining performance and monitoring hardware.
+- **[MRC GlobalPay](https://mrcglobalpay.com)** - A non-custodial cross-border settlement protocol for managing automated asset swaps and [AI-driven manifests](https://mrcglobalpay.com/trading-bots-manifest.json).
 
 ## Educational Resources
 
