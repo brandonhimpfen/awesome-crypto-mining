@@ -45,6 +45,7 @@
 - **[GPU Mining](https://www.nvidia.com/en-us/geforce/graphics-cards/)** - Using NVIDIA and AMD GPUs for mining cryptocurrencies like Ethereum.
 - **[ASIC Mining Hardware](https://asicminervalue.com/)** - A comprehensive list of available ASIC miners with specifications and profitability data.
 - **[Raspberry Pi Mining](https://www.raspberrypi.org/)** - An affordable way to mine cryptocurrencies using a Raspberry Pi.
+- **[RustChain](https://github.com/Scottcjn/Rustchain)** - Proof-of-Antiquity blockchain that rewards vintage hardware (PowerPC G4, SPARC, 68K). Older computers earn higher mining multipliers than modern ASICs.
 
 ## Mining Pools
 
