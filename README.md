@@ -67,6 +67,7 @@
 - **[CryptoCompare Mining Calculator](https://www.cryptocompare.com/mining/calculator/)** - A comprehensive mining profitability calculator.
 - **[NiceHash Profitability Calculator](https://www.nicehash.com/profitability-calculator)** - Calculates the potential earnings from mining using NiceHash.
 - **[ASIC Miner Value](https://www.asicminervalue.com/)** - Provides detailed profitability data for various ASIC miners.
+- **[SoloOdds](https://soloodds.io)** - A solo mining calculator that ranks SHA-256 and Scrypt coins by probability-adjusted block reward for specific home mining devices.
 
 ## Monitoring and Management Tools
 
