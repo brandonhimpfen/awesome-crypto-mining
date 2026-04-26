@@ -95,6 +95,7 @@ Contributions are welcome. Please ensure your submission fully follows the requi
 
 Pull requests that do not adhere to the contribution guidelines may be closed.
 
+- [RustChain](https://github.com/Scottcjn/RustChain) - Proof-of-Antiquity: vintage hardware earns higher mining rewards.
 ## License
 
 [![CC0](https://mirrors.creativecommons.org/presskit/buttons/88x31/svg/by-sa.svg)](http://creativecommons.org/licenses/by-sa/4.0/)
