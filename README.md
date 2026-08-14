@@ -83,6 +83,7 @@
 - **[Bitcoin Mining Forum](https://bitcointalk.org/)** - A forum dedicated to discussions about Bitcoin mining.
 
 ## Community and Forums
+- [Solana Token Price Alert (n8n)](https://github.com/DeusAcc/n8n-solana-price-alert) - Free n8n workflow: alerts on Telegram when a Solana SPL token price crosses a threshold, no external database, ready in 5 minutes.
 
 - **[Reddit: r/BitcoinMining](https://www.reddit.com/r/BitcoinMining/)** - A subreddit dedicated to Bitcoin mining discussions and advice.
 - **[MiningPoolStats](https://miningpoolstats.stream/)** - A website providing information about different mining pools and their stats.
