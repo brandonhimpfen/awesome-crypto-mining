@@ -49,6 +49,7 @@
 ## Mining Pools
 
 - **[Slush Pool](https://slushpool.com/)** - The world’s oldest Bitcoin mining pool, known for its reliability.
+- **[NexusPool](https://nexuspool.io/)** - A non-custodial Bitcoin solo/lottery pool with native Stratum V2 and signed, offline-verifiable share receipts (Glass Ledger).
 - **[F2Pool](https://www.f2pool.com/)** - A leading global mining pool supporting multiple cryptocurrencies.
 - **[Antpool](https://www.antpool.com/)** - One of the largest mining pools operated by Bitmain, supporting Bitcoin and other cryptocurrencies.
 - **[2Miners](https://2miners.com/)** - A mining pool supporting a variety of cryptocurrencies with a user-friendly interface.
