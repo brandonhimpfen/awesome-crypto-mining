@@ -68,6 +68,7 @@
 - **[CryptoCompare Mining Calculator](https://www.cryptocompare.com/mining/calculator/)** - A comprehensive mining profitability calculator.
 - **[NiceHash Profitability Calculator](https://www.nicehash.com/profitability-calculator)** - Calculates the potential earnings from mining using NiceHash.
 - **[ASIC Miner Value](https://www.asicminervalue.com/)** - Provides detailed profitability data for various ASIC miners.
+- **[BackPoW](https://backpow.com/)** - Proof of Work oracle: solo calculator, cost of production and more for every PoW coin.
 
 ## Monitoring and Management Tools
 
