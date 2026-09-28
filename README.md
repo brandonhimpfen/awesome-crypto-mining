@@ -37,6 +37,7 @@
 - **[NiceHash QuickMiner](https://www.nicehash.com/quick-miner)** - A user-friendly mining software for beginners, offering easy setup and automatic optimization.
 - **[PhoenixMiner](https://phoenixminer.org/)** - An Ethereum and GPU mining software known for its speed and efficiency.
 - **[XMRig](https://github.com/xmrig/xmrig)** - A high-performance Monero (XMR) miner with support for CPU, NVIDIA, and AMD GPUs.
+- **[xmrig-zecnero](https://gitlab.com/zecnero/xmrig-zecnero)** - An XMRig build for rx/zecnero, the RandomX variant used by the Zecnero CPU-mined Zcash fork.
 - **[Kryptex](https://www.kryptex.org/)** - A mining software that pays users in Bitcoin for using their computer’s processing power.
 
 ## Mining Hardware
